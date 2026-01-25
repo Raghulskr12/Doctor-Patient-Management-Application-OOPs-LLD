@@ -1,0 +1,10 @@
+# Default ignored files
+/../../Doctor Patient Management Application./.idea/shelf/
+/../../Doctor Patient Management Application./.idea/workspace.xml
+# Ignored default folder with query files
+/../../Doctor Patient Management Application./.idea/queries/
+# Datasource local storage ignored files
+/../../Doctor Patient Management Application./.idea/dataSources/
+/../../Doctor Patient Management Application./.idea/dataSources.local.xml
+# Editor-based HTTP Client requests
+/../../Doctor Patient Management Application./.idea/httpRequests/
