@@ -2,34 +2,47 @@ package models;
 
 public class Doctor {
 
-    private int doctorID;
+    private int doctorId;
     private String name;
     private String specialization;
+    private int experienceYears;
+    private int userId;
 
-
-    public Doctor(int doctorID,String name,String specialization)
+    public Doctor(int doctorId,String name,String specialization,int experienceYears,int userId )
     {
-        this.doctorID=doctorID;
+        this.doctorId=doctorId;
         this.name=name;
         this.specialization=specialization;
+        this.experienceYears=experienceYears;
+        this.userId=userId;
     }
 
-    public int getDoctorID() {
-        return doctorID;
+    public int getDoctorId() {
+        return doctorId;
     }
 
-    public String getName()
-    {
+    public int getExperienceYears() {
+        return experienceYears;
+    }
+
+    public int getUserId() {
+        return userId;
+    }
+
+    public String getName() {
         return name;
     }
 
-    public String getSpecialization()
-    {
+    public String getSpecialization() {
         return specialization;
     }
 
     @Override
-    public String toString(){
-        return "Doctor ID: " + doctorID + "Name: " + name + "Specialization : " +specialization;
+    public String toString()
+    {
+        return "Doctor : " + doctorId +
+                "Name : " + name +
+                "Specialization : " + specialization +
+                "Experience : " + experienceYears + "years";
     }
 }
