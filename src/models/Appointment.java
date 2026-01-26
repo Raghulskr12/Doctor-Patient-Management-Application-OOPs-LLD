@@ -52,6 +52,7 @@ public class Appointment {
                 "Date : " + date +
                 "Time : " + time +
                 "Status : " + status;
-                
+
+
     }
 }

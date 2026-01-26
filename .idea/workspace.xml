@@ -7,6 +7,7 @@
     <list default="true" id="40e2e8c2-93d9-4048-9569-19882f2b27fb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../Doctor Patient Management Application/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Doctor Patient Management Application/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Doctor Patient Management Application/src/models/Appointment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Doctor Patient Management Application/src/models/Appointment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Doctor Patient Management Application/src/models/Prescription.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Doctor Patient Management Application/src/models/Prescription.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1769330446841</updated>
       <workItem from="1769330450976" duration="4944000" />
-      <workItem from="1769448686262" duration="312000" />
+      <workItem from="1769448686262" duration="938000" />
     </task>
     <servers />
   </component>
