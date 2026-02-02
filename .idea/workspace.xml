@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40e2e8c2-93d9-4048-9569-19882f2b27fb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Doctor Patient Management Application/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Doctor Patient Management Application/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Doctor Patient Management Application/src/models/MedicalRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Doctor Patient Management Application/src/models/MedicalRecord.java" afterDir="false" />
-    </list>
+    <list default="true" id="40e2e8c2-93d9-4048-9569-19882f2b27fb" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +66,7 @@
       <workItem from="1769742803396" duration="1015000" />
       <workItem from="1769958611334" duration="1525000" />
       <workItem from="1770010879611" duration="2000" />
-      <workItem from="1770043443270" duration="1037000" />
+      <workItem from="1770043443270" duration="1389000" />
     </task>
     <servers />
   </component>

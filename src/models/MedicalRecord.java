@@ -43,6 +43,7 @@ public class MedicalRecord {
         return diagnosis;
     }
 
+    @Override
     public String toString()
     {
         return  "Record Id :" + recordId +
